@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor3","classId":1,"equips":[1],"faceIndex":0,"faceName":"Astell_Face","traits":[],"initialLevel":1,"maxLevel":22,"name":"艾斯","nickname":"大以巴狼","note":"","profile":"国立航天科学院2018届毕业生,经过3000年的冷冻后\n苏醒于这个依旧被剥夺了太阳的世界..."},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Actor3","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Astell_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"米子","nickname":"Sirius","note":"","profile":"国立航天科学院5068届毕业生.\n火箭科学精通."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
